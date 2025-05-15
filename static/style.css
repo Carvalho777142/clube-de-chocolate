@@ -1,0 +1,234 @@
+
+:root {
+    --primary-color: #6B3E26; 
+    --secondary-color: #D2691E;
+    --light-color: #F5F5DC;
+    --dark-color: #3D2B1F; 
+    --accent-color: #8B4513; 
+    --text-color: #333333;
+    --white: #FFFFFF;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--light-color);
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.logo h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(2, 2, 2, 2);
+    background-color: #6a3007;
+    color: #FFFFFF;
+    height: 70px;
+}
+
+.link-1 {
+    position: absolute;
+    top: 15px;
+    right: 600px;
+    color: #000;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.link-2 {
+    position: absolute;
+    top: 15px;
+    right: 450px;
+    color: #000;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.link-3 {
+    position: absolute;
+    top: 15px;
+    right: 300px;
+    color: #000;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+    
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+section {
+    background-color: var(--white);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+    margin-top: 0;
+}
+
+footer {
+    background-color: var(--dark-color);
+    color: var(--white);
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+.produto{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+
+.produto p {
+    bottom: 51px;
+    left: 25px;
+    padding-left: 10px;
+    
+}
+
+
+.produto img {
+    margin-top: 10px;
+    width: 160px;
+    height: 160px;
+}
+
+.produto .nome {
+    font-size: 12px;
+}
+
+
+.comprar:hover {
+    opacity: 100%;
+}
+.valor{
+    top: 20px;
+}
+.produto p {
+    bottom: 51px;
+    left: 25px;
+    padding-left: 10px;
+    
+}
+
+
+.produto img {
+    margin-top: 10px;
+    width: 160px;
+    height: 160px;
+}
+
+.produto .nome {
+    font-size: 12px;
+}
+
+
+.comprar:hover {
+    opacity: 100%;
+}
+.valor{
+    top: 20px;
+}
+.produto p {
+    bottom: 51px;
+    left: 25px;
+    padding-left: 10px;
+    
+}
+
+
+.produto img {
+    margin-top: 10px;
+    width: 160px;
+    height: 160px;
+}
+
+.produto .nome {
+    font-size: 12px;
+}
+
+
+.comprar:hover {
+    opacity: 100%;
+}
+.valor{
+    top: 20px;
+}
+.produto p {
+    bottom: 51px;
+    left: 25px;
+    padding-left: 10px;
+    
+}
+
+
+.produto img {
+    margin-top: 10px;
+    width: 160px;
+    height: 160px;
+}
+
+.produto .nome {
+    font-size: 12px;
+}
+
+
+.comprar:hover {
+    opacity: 100%;
+}
+.valor{
+    top: 20px;
+}
+.produto2 {
+    position: absolute;
+    left: 200px;
+}
+.rodapé{
+    background-color:#6a3007;
+    color: white;
+    height: 200px;
+    position: absolute;
+    bottom: -300px;
+    width: 100%;
+
+}
+.sobre{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+form input,form label,form textarea,form button{
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+}
+form{
+    width: 700px;
+    margin: auto;
+}
+.contato{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
