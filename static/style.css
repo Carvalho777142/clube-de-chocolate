@@ -1,13 +1,4 @@
 
-:root {
-    --primary-color: #6B3E26; 
-    --secondary-color: #D2691E;
-    --light-color: #F5F5DC;
-    --dark-color: #3D2B1F; 
-    --accent-color: #8B4513; 
-    --text-color: #333333;
-    --white: #FFFFFF;
-}
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
