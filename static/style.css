@@ -222,15 +222,15 @@ form{
 .contato{
     position: absolute;
     top: 15%;
-    left: 20%;
+    left: 25%;
 }
 
 
 
-.rodape {
+.rodape-home {
     background-color:#6a3007 ;
     color: #f5f5f5;
-    padding: 30px 20px 10px;
+    padding: 20pxx;
     font-family: Arial, sans-serif;
 }
 
@@ -267,8 +267,11 @@ form{
 .rodape-contato{
     background-color:#6a3007 ;
     color: #f5f5f5;
-    padding: 30px 20px 10px;
+    padding: 20px;
     font-family: Arial, sans-serif;
+    position: absolute;
+    top: 600px;
+    width: 98%;
 }
 .rodape-sobre{
     background-color:#6a3007 ;
@@ -276,5 +279,6 @@ form{
     padding: 30px 20px 10px;
     font-family: Arial, sans-serif;
     position: absolute;
-    bottom: 0;
+    top: 740px;
+    width: 98%;
 }
